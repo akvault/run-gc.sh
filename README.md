@@ -1,1 +1,1 @@
-# run-gc.sh
+# run-gc
